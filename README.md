@@ -1,6 +1,6 @@
 ## Cap 11 - Manipulação de Banco de Dados em Java
 
-<h1>Tutotial</h1>
+<h1>Tutorial</h1>
 
 <div>
   <ul>
